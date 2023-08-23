@@ -1,0 +1,2 @@
+xxd -p filename => hexencode
+xxd -r -p filename => hexdecode
